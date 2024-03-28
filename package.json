@@ -1,6 +1,6 @@
 {
   "name": "@ionos-cloud/sdk-nodejs-dbaas-mariadb",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "NodeJS SDK for MariaDB DBaaS",
   "author": "Ionos",
   "keywords": [
